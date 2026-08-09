@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/pricing.html",
+      "destination": "https://isaacperez.co/photo/pricing/",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://isaacperez.co/photo/",
+      "permanent": true
+    }
+  ]
+}

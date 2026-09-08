@@ -7,7 +7,7 @@
     },
     {
       "source": "/(.*)",
-      "destination": "https://isaacperez.co/photo/",
+      "destination": "https://firstunit.io/fu-0001",
       "statusCode": 301
     }
   ]
